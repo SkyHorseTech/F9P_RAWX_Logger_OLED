@@ -3,6 +3,8 @@ A GPS-RTK2 Board which incorporates the u-blox ZED-F9P dual band (L1 + L2) GNSS 
 
 The RAWX files logged by this project can be processed using rtklibexplorer's version of RTKLIB
 
+See https://skyhorsetech.com/recent-projects/how-to-add-rtk-to-pixhawk-uas for further info on this project.
+
 See https://github.com/SkyHorseTech/F9P_RAWX_Logger for the files below showing the background of the process:
 
 SOFTWARE.md describes how to install the Arduino IDE and all the libraries you will need for this project
